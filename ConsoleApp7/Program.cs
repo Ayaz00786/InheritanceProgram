@@ -19,9 +19,9 @@ namespace ConsoleApp7
 
             Console.WriteLine("\n------------PartTime Employee Details----------"); 
             PartTimeEmployee partTime = new PartTimeEmployee();
-            partTime.FirstName = "Ayaz";
-            partTime.LastName = "Ahmad";
-            partTime.Email = "Ayaz123@gmail.com";
+            partTime.FirstName = "Anup";
+            partTime.LastName = "Singh";
+            partTime.Email = "Anup123@gmail.com";
             partTime.HourlySalary = 240;
             partTime.DailyWorkHour = 5;
             partTime.PrintFullName();
